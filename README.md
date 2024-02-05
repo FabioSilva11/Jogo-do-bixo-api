@@ -57,7 +57,6 @@ http://localhost:5000/
   {
     "Avestruz": {"numero": [0, 1, 2, 3], "imagem": "link_para_imagem1.jpg"},
     "Águia": {"numero": [4, 5, 6, 7], "imagem": "link_para_imagem2.jpg"},
-  // ... (outros animais)
     "Veado": {"numero": [92, 93, 94, 95], "imagem": "link_para_imagem24.jpg"}
   }
   ```
