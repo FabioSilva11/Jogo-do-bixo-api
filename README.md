@@ -25,7 +25,7 @@ http://127.0.0.1:5000/
 ou
 
 ```bash
-http://localhost:5000/` no seu navegador.
+http://localhost:5000/
 ```
 
 ## Rotas Disponíveis
